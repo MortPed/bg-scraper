@@ -1,0 +1,23 @@
+{
+  "name": "bg-scraper",
+  "version": "1.0.0",
+  "description": "Pull a image from Reddit and save it to the computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morten Pedersen",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MortPed/bg-scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MortPed/bg-scraper/issues"
+  },
+  "homepage": "https://github.com/MortPed/bg-scraper#readme"
+}
